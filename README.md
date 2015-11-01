@@ -1,5 +1,15 @@
 # react-boilerplate
-boilerplate code to get react up and running with browserify, express, bootstrap, mocha, chai, others
+boilerplate code to get react up and running with:
+ 
+ * react
+ * jsx
+ * babel
+ * browserify
+ * express
+ * bootstrap
+ * mocha
+ * chai
+ * karma
 
 # Usage
 
